@@ -82,7 +82,7 @@ Turow argues that commercial surveillance has gone too far, and makes several sp
 * Educate the public about digital media and marketing, beginning in middle school.
     * Digital marketing is likely to change over the years
     * Standards change through time, as frequent as every second
-    * "We need more education" is a pretty vacuous suggestion to solve any social problem
+    * "We need more education" is a vacuous suggestion to solve any social problem
 
 Mayer-Schönberger & Ramge argue that communicative coordination is the basis of most if not all human achievement, citing a number of architectural examples: the pyramids of Giza, the Mayan temple of Chichén Itzá, the Great Wall of China, the Taj Mahal, etc. What else do these constructions all have in common?
 * SLAVES!
