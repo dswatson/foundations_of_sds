@@ -4,7 +4,7 @@
 
 The world is governed by immutable laws. With enough information about the initial conditions, nothing is unpredictable and every outcome is necessary. Discuss.
 
-Probabilities are just statements of subjective ignorance. When I say there's a 50% chance it will rain tomorrow, I simply mean that for all I know, it's as likely as not that it will rain tomorrow. Discuss.
+Probabilities are just statements of subjective ignorance. When I say there's a 50% chance it will rain tomorrow, I simply mean that, for all I know, it's as likely as not that it will rain tomorrow. Discuss.
 
 Observational data is never sufficient to infer a causal relationship between two variables. Discuss.
 
