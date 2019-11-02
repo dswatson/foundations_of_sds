@@ -32,9 +32,9 @@ Are lotteries fair?
 * Lotteries are an exploitation of the weaknesses of human cognition and inability to properly evaluate short-long term gains and losses.
 
 Here are three prominent formal definitions of algorithmic fairness:
-* Demographic parity: $\widehat{Y} \independent A$
-* Error parity: $\widehat{Y} \independent A | Y$
-* Predictive parity: $Y \independent A | \widehat{Y}$
+* Demographic parity: $\widehat{Y} \perp A$
+* Error parity: $\widehat{Y} \perp A | Y$
+* Predictive parity: $Y \perp A | \widehat{Y}$
 
 Where:
 $Y$ = ground truth
