@@ -1,4 +1,4 @@
-# Week 6: Algorithmic Explainability
+# Week 4: Algorithmic Explainability
 
 ## Discussion Prompts/Questions
 
